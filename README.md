@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ndhabrde11
+- 👋 Hi, I’m Nayan Dhabarde (@ndhabrde11)
 - 👀 I’m interested in Android apps and user experience
 - 🌱 I’m currently learning Android and Kotlin 
 - 💞️ I’m looking to collaborate on Android, Kotlin and Custom Views
